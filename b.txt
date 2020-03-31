@@ -2,4 +2,4 @@ file b.txt
 more chanages
 even more changes
 lots changes
-local changes
+local changes 2
